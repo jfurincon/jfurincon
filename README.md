@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! This is Felipe Urrego. Known as jfurincon. ✨
+I'm learning how to code everyday and I'm passionate about Machine Learning - Deep Learning, and Data Science 🤩.
+Currently I'm studying `Data and markets analysis` at Universidad Del Rosario - Bogota, COL 😎.
 
 <!--
 **jfurincon/jfurincon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
